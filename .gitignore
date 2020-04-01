@@ -1,4 +1,6 @@
 data/
+data/pubmed_result_nsaids.txt
+data/pubmed_result_hypertension.txt
 .DS_Store
 .Rproj.user
 .Rhistory
